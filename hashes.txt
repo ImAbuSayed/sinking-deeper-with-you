@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sinking Deeper With You
+
+This log tracks the cryptographic history and versioning for the song **Sinking Deeper With You** (sinking-deeper-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T19:27:28.834764 | `v1` | `6800ba342a696ee634f25abbc5d93cb2320fc8a39dd261caa771475be95ce56a` | `806004f8f9d778a7dca490633cad405df7b4a09587aa163e0366fe1599a01bf9` | `2026-06-11_sinking-deeper-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
