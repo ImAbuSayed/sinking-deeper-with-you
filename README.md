@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the midnight pulling at my skin
+> A heavy warmth where your gentle touch begins
+> We are blurring lines beneath the copper moon
+> I am sinking deeper, sinking deeper with you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
